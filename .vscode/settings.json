@@ -1,5 +1,6 @@
 {
     "python.formatting.provider": "black",
     "jupyter.jupyterServerType": "local",
-    "AllAutocomplete.showCurrentDocument": false
+    "AllAutocomplete.showCurrentDocument": false,
+    "git.ignoreLimitWarning": true
 }
